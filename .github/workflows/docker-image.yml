@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kevinguyodo/ynov_cicd_test:latest
+          tags: guyodokevin/test:latest
